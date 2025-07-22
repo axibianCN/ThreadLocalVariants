@@ -1,0 +1,2 @@
+# ThreadLocalVariants
+ThreadLocal、InheritableThreadLocal、TransmittableThreadLocal学习记录
